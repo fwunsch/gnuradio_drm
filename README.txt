@@ -79,7 +79,7 @@ You are also free to play around with several robustness modes (RM) and spectrum
 occupancies (SO, signal bandwidth) ranging from 4.5 to 20 kHz. The corresponding
 bit rates vary from below 5 kbps to about 55 kbps. Among other parameters, the
 station label and a text message can also be set by simply adapting the 
-correspondant blocks.
+correspondent blocks.
 
 
 4 (CURRENT) CONSTRAINTS
